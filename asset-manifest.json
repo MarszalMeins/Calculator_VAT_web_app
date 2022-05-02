@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clicktrans_task_app/static/css/main.e7f087c7.css",
+    "main.js": "/Clicktrans_task_app/static/js/main.e1ee7a99.js",
+    "index.html": "/Clicktrans_task_app/index.html",
+    "main.e7f087c7.css.map": "/Clicktrans_task_app/static/css/main.e7f087c7.css.map",
+    "main.e1ee7a99.js.map": "/Clicktrans_task_app/static/js/main.e1ee7a99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f087c7.css",
+    "static/js/main.e1ee7a99.js"
+  ]
+}
