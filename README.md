@@ -14,7 +14,7 @@ User need to enter all necessary data to send POST request to server. All input 
 
 ## Prerequisites
 
-Software and how to install them.
+Software used and how to install.
 * npm
   ```sh
   npm install npm@latest -g
