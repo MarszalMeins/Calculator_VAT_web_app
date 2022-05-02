@@ -20,6 +20,14 @@ Software used and how to install.
   npm install npm@latest -g
   ```
 
+### Built With
+
+Frameworks and libraries used in project.
+
+* [React.js](https://reactjs.org/)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Stay up to date with new projects
