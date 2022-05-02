@@ -143,7 +143,7 @@ function App() {
 
   async function postRequestForm(body) {
 
-    await fetch("http://localhost:5000/" , {
+    await fetch("https://clicktrans-server.herokuapp.com/" , {
       method: "POST",
       body: JSON.stringify(body),
       headers: {
