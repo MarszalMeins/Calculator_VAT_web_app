@@ -12,6 +12,7 @@ Nodejs server: https://github.com/MarszalMeins/Clicktrans_server_task_app
 User need to enter all necessary data to send POST request to server. All input fields have own dependencies about what data is entered. All field are required and have validation messages. Validation messages appears when data is incorrect or when user click field to enter data and leaves empty. Input Netto value is disabled before user will choose value Vat percentage. Submit button will send all data if the entered data by the user are entered correctly and form dont show any validation messages.
 
 
+
 ### Prerequisites
 
 Software used and how to install.
@@ -26,8 +27,6 @@ Frameworks and libraries used in project.
 
 * [React.js](https://reactjs.org/)
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Stay up to date with new projects
